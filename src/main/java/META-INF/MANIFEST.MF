@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: com.zfylin.demo.bigdata.hadoop.toolrunner.WordCount2
+
